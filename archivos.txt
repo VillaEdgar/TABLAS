@@ -1,0 +1,4 @@
+archivo001,16M,1000
+archivo002,10G,5000
+archivo003,6G,3000
+archivo004,1T,10000000
